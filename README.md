@@ -143,11 +143,7 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![Uploading image.png…]()
-
-
-
-## HTML VALIDATOR:
+![image](https://github.com/Ragu-123/cover/assets/113915622/6c0f106c-b6c1-4784-a2c5-c2012ca46f13)
 
 
 ## RESULT:
